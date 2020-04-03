@@ -23,7 +23,7 @@ namespace BasicCalculator
         #region Clearing Methods
 
         /// <summary>
-        /// Clears the user input text
+        /// Clears the user input text ------------- Just git test
         /// </summary>
         /// <param name="sender">The event sender</param>
         /// <param name="e">The event arguments</param>
